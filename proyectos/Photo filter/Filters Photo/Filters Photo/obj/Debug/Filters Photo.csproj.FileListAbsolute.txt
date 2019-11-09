@@ -1,0 +1,9 @@
+C:\Users\aeropuerto\Documents\Modelado\Ximena\Photo filter\Filters Photo\Filters Photo\bin\Debug\Filters Photo.exe.config
+C:\Users\aeropuerto\Documents\Modelado\Ximena\Photo filter\Filters Photo\Filters Photo\bin\Debug\Filters Photo.exe
+C:\Users\aeropuerto\Documents\Modelado\Ximena\Photo filter\Filters Photo\Filters Photo\bin\Debug\Filters Photo.pdb
+C:\Users\aeropuerto\Documents\Modelado\Ximena\Photo filter\Filters Photo\Filters Photo\obj\Debug\Filters_Photo.Form1.resources
+C:\Users\aeropuerto\Documents\Modelado\Ximena\Photo filter\Filters Photo\Filters Photo\obj\Debug\Filters_Photo.Properties.Resources.resources
+C:\Users\aeropuerto\Documents\Modelado\Ximena\Photo filter\Filters Photo\Filters Photo\obj\Debug\Filters Photo.csproj.GenerateResource.cache
+C:\Users\aeropuerto\Documents\Modelado\Ximena\Photo filter\Filters Photo\Filters Photo\obj\Debug\Filters Photo.exe
+C:\Users\aeropuerto\Documents\Modelado\Ximena\Photo filter\Filters Photo\Filters Photo\obj\Debug\Filters Photo.pdb
+C:\Users\aeropuerto\Documents\Modelado\Ximena\Photo filter\Filters Photo\Filters Photo\obj\Debug\Filters Photo.csprojAssemblyReference.cache
